@@ -1,3 +1,6 @@
+//Alabdullah Mahiyan
+//1/29/2018
+
 //create array of stars and arraylist of connected stars
 Star[] stars;
 ArrayList<Star> connectedStars;
